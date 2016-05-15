@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseAdapterDemo</string>
+    <string name="more">加载中...</string>
+
+</resources>
